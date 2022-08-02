@@ -1,0 +1,27 @@
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM   27  N   MSE A   9     -19.112 -15.517   7.972  1.00 99.68           N  
+HETATM   28  CA  MSE A   9     -18.137 -14.885   7.055  1.00 99.85           C  
+HETATM   29  C   MSE A   9     -18.685 -13.813   6.059  1.00 99.63           C  
+HETATM   30  O   MSE A   9     -18.047 -12.748   5.881  1.00 99.43           O  
+HETATM   31  CB  MSE A   9     -17.373 -15.975   6.287  1.00100.00           C  
+HETATM   32  CG  MSE A   9     -16.316 -15.425   5.348  1.00101.04           C  
+HETATM   33 SE   MSE A   9     -15.877 -16.593   3.847  1.00104.01          SE  
+HETATM   34  CE  MSE A   9     -17.543 -16.509   2.761  1.00101.54           C  
+HETATM  592  N   MSE A  84      -8.276  -6.718 -17.557  1.00 36.33           N  
+HETATM  593  CA  MSE A  84      -7.558  -7.939 -17.171  1.00 36.70           C  
+HETATM  594  C   MSE A  84      -6.780  -7.812 -15.890  1.00 36.62           C  
+HETATM  595  O   MSE A  84      -6.487  -6.704 -15.418  1.00 36.50           O  
+HETATM  596  CB  MSE A  84      -6.645  -8.437 -18.288  1.00 36.79           C  
+HETATM  597  CG  MSE A  84      -5.953  -7.333 -19.037  1.00 38.96           C  
+HETATM  598 SE   MSE A  84      -5.125  -7.903 -20.744  0.90 41.05          SE  
+HETATM  599  CE  MSE A  84      -4.519  -6.115 -21.275  1.00 42.38           C  
+HETATM  622  N   MSE A  88      -9.682 -10.004  -6.639  1.00 34.93           N  
+HETATM  623  CA  MSE A  88     -10.721  -9.708  -5.639  1.00 35.10           C  
+HETATM  624  C   MSE A  88     -10.712 -10.675  -4.452  1.00 35.35           C  
+HETATM  625  O   MSE A  88     -11.074 -11.851  -4.591  1.00 34.50           O  
+HETATM  626  CB  MSE A  88     -12.121  -9.665  -6.270  1.00 34.51           C  
+HETATM  627  CG  MSE A  88     -12.266  -8.740  -7.455  1.00 36.68           C  
+HETATM  628 SE   MSE A  88     -14.129  -8.233  -7.896  0.90 40.87          SE  
+HETATM  629  CE  MSE A  88     -14.849  -9.913  -8.489  1.00 41.54           C  
+HETATM 1373 CA    CA A 193     -18.031   2.216   4.493  0.50 42.65          CA  
+HETATM 1374 CA    CA A 194       0.718  -0.538  -7.065  0.33 89.29          CA  

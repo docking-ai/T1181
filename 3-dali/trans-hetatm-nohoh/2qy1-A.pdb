@@ -1,0 +1,11 @@
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM 4991  P   PO4 A   2     -28.535  13.139  -2.112  1.00 34.82           P  
+HETATM 4992  O1  PO4 A   2     -27.076  13.461  -1.894  1.00 33.48           O  
+HETATM 4993  O2  PO4 A   2     -28.688  12.242  -3.318  1.00 34.46           O  
+HETATM 4994  O3  PO4 A   2     -29.294  14.427  -2.356  1.00 34.72           O  
+HETATM 4995  O4  PO4 A   2     -29.097  12.441  -0.891  1.00 33.36           O  
+HETATM 4996  P   PO4 B   1     -42.709  -6.413   9.898  1.00 26.03           P  
+HETATM 4997  O1  PO4 B   1     -42.429  -4.963   9.571  1.00 25.13           O  
+HETATM 4998  O2  PO4 B   1     -42.536  -6.629  11.387  1.00 26.04           O  
+HETATM 4999  O3  PO4 B   1     -41.740  -7.302   9.158  1.00 24.92           O  
+HETATM 5000  O4  PO4 B   1     -44.118  -6.790   9.502  1.00 23.98           O  

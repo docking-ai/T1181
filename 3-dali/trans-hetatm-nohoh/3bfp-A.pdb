@@ -1,0 +1,14 @@
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM 1425  CAC FLC A   1     -27.680   7.204  -4.862  1.00 28.10           C  
+HETATM 1426  CA  FLC A   1     -28.174   5.844  -4.417  1.00 28.02           C  
+HETATM 1427  CB  FLC A   1     -28.603   4.963  -5.592  1.00 28.36           C  
+HETATM 1428  CBC FLC A   1     -29.038   3.638  -5.020  1.00 27.26           C  
+HETATM 1429  CG  FLC A   1     -27.438   4.756  -6.560  1.00 30.59           C  
+HETATM 1430  CGC FLC A   1     -27.786   3.945  -7.791  1.00 34.63           C  
+HETATM 1431  OA1 FLC A   1     -26.656   7.652  -4.295  1.00 25.30           O  
+HETATM 1432  OA2 FLC A   1     -28.310   7.813  -5.769  1.00 28.46           O  
+HETATM 1433  OB1 FLC A   1     -30.257   3.454  -4.876  1.00 25.14           O  
+HETATM 1434  OB2 FLC A   1     -28.175   2.792  -4.707  1.00 25.02           O  
+HETATM 1435  OG1 FLC A   1     -28.850   3.265  -7.850  1.00 35.99           O  
+HETATM 1436  OG2 FLC A   1     -26.951   3.990  -8.722  1.00 34.84           O  
+HETATM 1437  OHB FLC A   1     -29.741   5.546  -6.256  1.00 29.45           O  

@@ -1,0 +1,5 @@
+REVDAT   3   16-NOV-11 2G0Y    1       VERSN  HETATM                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM  996 CA    CA A 140      -3.220   7.973  -6.284  1.00 36.54          CA  
+HETATM  997 CA    CA A 141     -10.375  -1.380 -14.897  1.00 50.09          CA  
+HETATM  998 CA    CA A 142      -9.256   9.694 -15.972  1.00 71.15          CA  

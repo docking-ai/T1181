@@ -1,0 +1,18 @@
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM    6  N   MSE A  26     -18.291  -9.074  -1.144  1.00 37.99           N  
+HETATM    7  CA  MSE A  26     -17.252  -8.078  -1.342  1.00 39.90           C  
+HETATM    8  C   MSE A  26     -16.640  -8.192  -2.734  1.00 40.01           C  
+HETATM    9  O   MSE A  26     -16.351  -7.189  -3.393  1.00 38.53           O  
+HETATM   10  CB  MSE A  26     -16.152  -8.249  -0.299  1.00 42.96           C  
+HETATM   11  CG  MSE A  26     -15.045  -7.220  -0.421  1.00 49.87           C  
+HETATM   12 SE   MSE A  26     -15.741  -5.395  -0.489  1.00 65.03          SE  
+HETATM   13  CE  MSE A  26     -16.515  -5.278   1.300  1.00 57.07           C  
+HETATM  366  N   MSE A  74      -9.112  10.341 -21.223  1.00 93.70           N  
+HETATM  367  CA  MSE A  74     -10.117  10.456 -20.170  1.00 94.32           C  
+HETATM  368  C   MSE A  74     -11.249  11.396 -20.584  1.00 93.18           C  
+HETATM  369  O   MSE A  74     -12.193  11.624 -19.821  1.00 93.63           O  
+HETATM  370  CB  MSE A  74      -9.472  10.969 -18.877  1.00 96.87           C  
+HETATM  371  CG  MSE A  74      -8.484  10.003 -18.232  1.00 99.63           C  
+HETATM  372 SE   MSE A  74      -9.290   8.310 -17.731  1.00105.55          SE  
+HETATM  373  CE  MSE A  74     -10.342   8.902 -16.221  1.00102.54           C  
+HETATM 1131 AS   ARS A   1     -22.041  24.091  15.190  0.50 48.43          AS  

@@ -1,0 +1,19 @@
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+HETATM    1  N   PCA A   1       0.752 -28.737 -19.774  1.00 25.77           N  
+HETATM    2  CA  PCA A   1       2.081 -29.214 -19.867  1.00 24.85           C  
+HETATM    3  CB  PCA A   1       2.605 -28.617 -21.175  1.00 25.11           C  
+HETATM    4  CG  PCA A   1       1.460 -27.824 -21.708  1.00 25.53           C  
+HETATM    5  CD  PCA A   1       0.342 -27.985 -20.716  1.00 25.92           C  
+HETATM    6  OE  PCA A   1      -0.788 -27.494 -20.764  1.00 25.79           O  
+HETATM    7  C   PCA A   1       2.959 -28.837 -18.664  1.00 24.46           C  
+HETATM    8  O   PCA A   1       4.128 -29.228 -18.600  1.00 22.59           O  
+HETATM 2454 AS   CAC A 501     -29.120  -1.076  -6.579  1.00  4.26          AS  
+HETATM 2455  O1  CAC A 501     -28.703  -0.315  -7.963  1.00 13.98           O  
+HETATM 2456  O2  CAC A 501     -29.303  -2.650  -6.948  1.00 14.44           O  
+HETATM 2457  C1  CAC A 501     -27.757  -0.863  -5.268  1.00 12.01           C  
+HETATM 2458  C2  CAC A 501     -30.787  -0.390  -5.961  1.00 14.90           C  
+HETATM 2459 AS   CAC A 502      -1.992 -32.890 -22.903  1.00 24.61          AS  
+HETATM 2460  O1  CAC A 502      -0.874 -31.884 -22.280  1.00 28.88           O  
+HETATM 2461  O2  CAC A 502      -2.937 -31.985 -23.883  1.00 29.07           O  
+HETATM 2462  C1  CAC A 502      -1.172 -34.287 -23.893  1.00 27.06           C  
+HETATM 2463  C2  CAC A 502      -3.069 -33.576 -21.486  1.00 27.80           C  
